@@ -3,7 +3,7 @@
 > <a href="notebook/components-01-catalog.ipynb">Notebook - 6 tarefas feitas </a>
 
 ## Tarefa Web Components 1
-> Escreva aqui o código da sua composição de componentes Web, como mostra o exemplo a seguir:
+
 ~~~html
 <dcc-trigger label="Mundo"
              action="noticia/mundo/politica"
@@ -47,7 +47,7 @@
 
 ## Tarefa Web Components 2
 
-~~~
+~~~html
 <dcc-trigger label="Next Item" action="next/rss">
 </dcc-trigger>
 
