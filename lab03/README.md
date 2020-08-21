@@ -23,8 +23,9 @@
 > ![blocks](images/tarefa3_blocos3.png)
 > ![blocks](images/tarefa3_blocos4.png)
 
-[Link para o arquivo do aplicativo](app/Tarefa3.aia)
-
+<a href="app/Tarefa3.aia">Link para o arquivo do aplicativo</a>
 
 ## Tarefa 4
-[Link para o github da Equipe 3](https://github.com/INF331-Grupo3/tarefa4)
+<a href="https://github.com/INF331-Grupo3/tarefa4">Link para o github da Equipe 3</a>
+
+
